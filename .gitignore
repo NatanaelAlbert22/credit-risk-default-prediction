@@ -1,0 +1,9 @@
+.venv/
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*.parquet
+mlruns/
+*.pkl
+*.joblib
+__pycache__/
+.ipynb_checkpoints/

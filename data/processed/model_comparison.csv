@@ -1,0 +1,4 @@
+Model,AUC,PR-AUC,KS
+Logistic Regression (baseline),0.7457,0.2259,0.3634
+LightGBM (default),0.7707,0.2643,0.4003
+LightGBM (tuned),0.7761,0.2673,0.4116
